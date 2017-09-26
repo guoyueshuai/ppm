@@ -1,0 +1,41 @@
+[
+	{
+		"id": 1,
+		"imgs": [
+			"/static/img/shouye/gys/jsImg/a-1.png",
+			"/static/img/shouye/gys/jsImg/a-2.png",
+			"/static/img/shouye/gys/jsImg/a-3.png"
+		]
+	}, {
+		"id": 2,
+		"imgs": [
+			"/static/img/shouye/gys/jsImg/b-1.png",
+			"/static/img/shouye/gys/jsImg/b-2.png",
+			"/static/img/shouye/gys/jsImg/b-3.png",
+			"/static/img/shouye/gys/jsImg/b-4.png",
+			"/static/img/shouye/gys/jsImg/b-5.png"
+		]
+	}, {
+		"id": 3,
+		"imgs": [
+			"/static/img/shouye/gys/jsImg/c-1.png",
+			"/static/img/shouye/gys/jsImg/c-2.png",
+			"/static/img/shouye/gys/jsImg/c-3.png",
+			"/static/img/shouye/gys/jsImg/c-4.png"
+		]
+	}, {
+		"id": 4,
+		"imgs": [
+			"/static/img/shouye/gys/jsImg/d-1.png",
+			"/static/img/shouye/gys/jsImg/d-2.png"
+		]
+	}, {
+		"id": 5,
+		"imgs": [
+			"/static/img/shouye/gys/jsImg/e-1.png",
+			"/static/img/shouye/gys/jsImg/e-2.png",
+			"/static/img/shouye/gys/jsImg/e-3.png",
+			"/static/img/shouye/gys/jsImg/e-4.png"
+		]
+	}
+]
